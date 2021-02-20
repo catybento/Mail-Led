@@ -1,0 +1,5 @@
+{
+  "from": "your_email@email.com",
+  "smtp": "smtp.email.com",
+  "port": 465
+}
