@@ -3,11 +3,11 @@
 #### A small python project that sends an email saying the Raspberry Pi LED status
 
 For this project you need:
-- Raspberry Pi
+- Raspberry Pi 2 (Raspberry Pi OS with desktop)
 - LED
+- 270Ω Resistor
 
 ![](Images/IMG_3044.jpg)
-
 
 To run this program, first configure `mail_config.json`:
 
