@@ -14,6 +14,6 @@ After that, you can run the program in the **terminal** with the command below:
 
 The terminal should look like this when the program runs properly:
 
-![](Images/IMG_3046)
+![](Images/IMG_3046.jpg)
 
 
