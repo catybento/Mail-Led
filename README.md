@@ -9,6 +9,12 @@ For this project you need:
 
 ![](Images/IMG_3044.jpg)
 
+To connect the LED, use Raspberry Pi's row of GPIO (General-Purpose Input/Output) like shown in the following picture:
+- Ground (14)
+- GPIO 14 (8)
+
+![](Images/Raspberry-pi-pinout.jpg)
+
 To run this program, first configure `mail_config.json`:
 
 - "from" - Email address that will send the email
