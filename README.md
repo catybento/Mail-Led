@@ -23,7 +23,7 @@ To run this program, first configure `mail_config.json`:
 
 After that, run the program in the **terminal** with the command below:
     
-        phyton3 MailLed.py
+        python3 MailLed.py
 
 The terminal should look like this if the program runs properly:
 
