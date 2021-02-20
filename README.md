@@ -1,6 +1,6 @@
 # Mail-Led
 
-#### A small python project that sends an email saying the Raspberry Pi LED status
+#### A small python Iot project that sends an email saying the Raspberry Pi LED status
 
 For this project you need:
 - Raspberry Pi 2 (Raspberry Pi OS with desktop)
